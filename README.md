@@ -331,10 +331,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/318cfea4-2dba-40aa-87ac-f0226ca57ed9" />
-
+### Object Detected:
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7b706aa8-4c73-4935-800c-2fa0089f780b" />
+
+### Object Not Detected:
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/318cfea4-2dba-40aa-87ac-f0226ca57ed9" />
+
 
 
 ## RESULT
